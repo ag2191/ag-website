@@ -1,4 +1,4 @@
-baseURL = "https://aidagjoka.netlify.app/"
+baseURL = "https://example.org/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Aida Gjoka"

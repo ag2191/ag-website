@@ -7,5 +7,26 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:4321/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:4321/about/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/header/</guid>
+      <description>&lt;!-- this is a subheadline --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. &amp;#x1f1eb;&amp;#x1f1f7;&lt;/p&gt;&#xA;&lt;p&gt;The page you are reading is based on a markdown file- look in &lt;code&gt;content/about/&lt;/code&gt; to edit. There, look inside the &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;main&lt;/code&gt;, and &lt;code&gt;sidebar&lt;/code&gt; folders to get started building your own &amp;ldquo;about&amp;rdquo; page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:4321/about/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/sidebar/</guid>
+      <description>&lt;p&gt;** index doesn&amp;rsquo;t contain a body, just front matter above.&#xA;See about/list.html in the layouts folder **&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why apéro?</title>
+      <link>http://localhost:4321/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/main/</guid>
+      <description>&lt;p&gt;** index doesn&amp;rsquo;t contain a body, just front matter above.&#xA;See about/list.html in the layouts folder **&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
