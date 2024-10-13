@@ -191,20 +191,6 @@
       <description>&lt;div class=&#34;flex-l&#34;&gt;&#xA;  &lt;div class=&#34;w-50-l pr4-l&#34;&gt;&#xA;    &lt;h6 class=&#34;ttu tracked black-30 pv3 mt5 bt b--black-10&#34;&gt;Font Sizes&lt;/h6&gt;&#xA;    &lt;div class=&#34;w-100 overflow-x-auto&#34;&gt;&#xA;      &lt;table class=&#34;w-100 mb2&#34;&gt;&#xA;        &lt;tbody&gt;&#xA;          &lt;tr&gt;&#xA;            &lt;td class=&#34;tc f-headline b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f-subheadline b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f1 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f2 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f3 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f4 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f5 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;            &lt;td class=&#34;tc f6 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xA;          &lt;/tr&gt;&#xA;          &lt;tr&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;6rem&lt;br&gt;(96px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;5rem&lt;br&gt;(80px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;3rem&lt;br&gt;(48px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;2.25rem&lt;br&gt;(36px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1.5rem&lt;br&gt;(24px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1.25rem&lt;br&gt;(20px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1rem&lt;br&gt;(16px)&lt;/td&gt;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;.875rem&lt;br&gt;(14px)&lt;/td&gt;&#xA;          &lt;/tr&gt;&#xA;        &lt;/tbody&gt;&#xA;      &lt;/table&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;h6 class=&#34;ttu tracked black-30 pv3 mt5 bt b--black-10&#34;&gt;Type Samples&lt;/h6&gt;&#xA;    &lt;h1 class=&#34;f-headline measure-narrow lh-solid&#34;&gt;Head&amp;shy;line&lt;/h1&gt;&#xA;    &lt;h1 class=&#34;f-subheadline measure-narrow lh-solid&#34;&gt;Sub&amp;shy;head&amp;shy;line&lt;/h1&gt;&#xA;    &lt;h1 class=&#34;f2 f1-ns measure-narrow lh-title&#34;&gt;Level 1 Heading&lt;/h1&gt;&#xA;    &lt;p class=&#34;f4-ns measure lh-copy&#34;&gt;One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:4321/about/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/header/</guid>
-      <description>&lt;!-- this is a subheadline --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. &amp;#x1f1eb;&amp;#x1f1f7;&lt;/p&gt;&#xA;&lt;p&gt;The page you are reading is based on a markdown file- look in &lt;code&gt;content/about/&lt;/code&gt; to edit. There, look inside the &lt;code&gt;header&lt;/code&gt;, &lt;code&gt;main&lt;/code&gt;, and &lt;code&gt;sidebar&lt;/code&gt; folders to get started building your own &amp;ldquo;about&amp;rdquo; page.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:4321/about/sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/sidebar/</guid>
-      <description>&lt;p&gt;** index doesn&amp;rsquo;t contain a body, just front matter above.&#xA;See about/list.html in the layouts folder **&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contributors</title>
       <link>http://localhost:4321/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -217,13 +203,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/license/</guid>
       <description>&lt;p&gt;My &#xA;&lt;a href=&#34;http://localhost:4321/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
-    </item>
-    <item>
-      <title>Why apéro?</title>
-      <link>http://localhost:4321/about/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/main/</guid>
-      <description>&lt;p&gt;** index doesn&amp;rsquo;t contain a body, just front matter above.&#xA;See about/list.html in the layouts folder **&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
